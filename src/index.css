@@ -1,5 +1,5 @@
 .secctionHeader{
-    background-image: url(./Header.jpg);
+    background-image: url("/pizzeria/src/assets/imgs/Header.jpg");
     background-size: cover;
     height: 300px;
 }
