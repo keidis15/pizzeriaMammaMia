@@ -1,12 +1,39 @@
-# React + Vite
+# 🍕 Pizzería React - Proyecto por Hitoss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un **sitio web de una pizzería**, desarrollado con **React + Vite**, que se construirá por etapas (**hitos semanales**) según los requerimientos de la asignatura.  
+Cada semana se agregarán nuevos componentes y funcionalidades.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Hito 1: Etapa inicial
+En este primer hito se desarrolló la base del proyecto:
 
-## Expanding the ESLint configuration
+- ⚛️ Configuración del proyecto con **React + Vite**.  
+- 🧩 Creación de **componentes reutilizables** (Navbar y Cards).  
+- 🗂️ Organización inicial de las carpetas (`src/`, `public/`).  
+- 🎴 Se diseñaron **3 Cards de pizzas**, recibiendo los datos como *props* (nombre, precio, ingredientes e imagen).  
+- 🔑 Uso de una **variable token** para simular si el usuario está logueado o no:  
+  - Si está logueado → se muestran botones `Profile` y `Logout`.  
+  - Si no está logueado → se muestran `Login` y `Register`.  
+- 💰 Los precios de las pizzas se formatean con separadores de miles usando `toLocaleString()`.  
+- 🎨 Estilos iniciales con **Bootstrap** y sombras/bordes para las Cards.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tecnologías utilizadas
+- React 18
+- Vite
+- Bootstrap 5
+- CSS3
+
+---
+🌐 Deploy
+
+👉 El proyecto está publicado en GitHub Pages: 🔗 
+
+
+✍️ Autor: Keidis Suárez
+📅 Semana 1 - Hito 1
+
+---
+
