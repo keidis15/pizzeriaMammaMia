@@ -8,7 +8,6 @@ export default function Home() {
   return (
     <>
       <Header />
-       <img src="/imgs/pizzaNapolitana.jpg" alt="Test" />
       <div className="container">
         <div className="row ">
           <CardPizza
