@@ -29,7 +29,7 @@ En este primer hito se desarrolló la base del proyecto:
 ---
 🌐 Deploy
 
-👉 El proyecto está publicado en GitHub Pages: 🔗 
+👉 El proyecto está publicado en GitHub Pages: 🔗https://keidis15.github.io/pizzeriaMammaMia/ 
 
 
 ✍️ Autor: Keidis Suárez
