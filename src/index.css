@@ -1,8 +1,13 @@
 .secctionHeader{
-    background-image: url("/pizzeria/src/assets/imgs/Header.jpg");
+    background-image: url("/imgs/Header.jpg");
     background-size: cover;
     height: 300px;
 }
 .card{
  width: 18rem;
+}
+.secctionTitle{
+    background: #0404043c;
+    padding: 10px 20px;
+    width: 100%;
 }
